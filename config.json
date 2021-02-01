@@ -1,0 +1,22 @@
+{
+  "app": {
+      "date": "01.01.2021",
+      "info": "Net config",
+      "external_config": true
+  },
+
+  "update": {
+      "release": {
+          "version_code": 20,
+          "version_name":"0.020",
+          "date":"25.01.2021",
+          "description":"\nХ fix1;\nХ fix2;\nХ багфиксы;",
+          "apk_urls":["http://..apk"]
+      }
+  },
+  
+  "wizard": [
+    {"name": "LID Wizard", "url": "http://bit.ly/lidwizard"},
+    {"name": "Karney4 Wizard", "url": "http://bit.do/Karnei4-liwizard"}
+  ]
+}
