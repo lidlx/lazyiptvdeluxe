@@ -6,7 +6,7 @@
   },
 
   "update": {
-      "enable": "false",
+      "enable": "true",
       "release": {
           "version_code": 77,
           "version_name":"0.077",
