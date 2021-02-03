@@ -8,7 +8,7 @@
   "update": {
       "enable": "true",
       "release": {
-          "version_code": 77,
+          "version_code": 07,
           "version_name":"0.077",
           "date":"25.01.2021",
           "description":"\n• fix1;\n• fix2;\n• багфиксы;",
