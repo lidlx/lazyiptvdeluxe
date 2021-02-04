@@ -7,7 +7,7 @@
   "update": {
       "enable": "true",
       "release": {
-          "version_code": 21,
+          "version_code": 20,
           "version_name":"0.20",
           "date":"04.01.2021",
           "description":"\n• автообновление версий(последующие);\n• добавлены кастомные wizard(временно);\n• багфиксы;",
