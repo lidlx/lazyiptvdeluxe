@@ -1,16 +1,16 @@
 {
   "app": {
-      "date": "04.04.2021",
+      "date": "06.04.2021",
       "info": "Net config"
   },
 
   "update": {
       "enable": "true",
       "release": {
-          "version_code": 20,
-          "version_name":"0.20",
-          "date":"04.01.2021",
-          "description":"\n• автообновление версий(последующие);\n• добавлены кастомные wizard(временно);\n• багфиксы;",
+          "version_code": 21,
+          "version_name":"0.21",
+          "date":"06.01.2021",
+          "description":"\n• новое ядро exoplayer;\n• заставка при загрузке;\n• багфиксы;",
           "apk_urls":["http://bit.ly/lid_apk"]
       }
   },
