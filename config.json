@@ -7,10 +7,10 @@
   "update": {
       "enable": "true",
       "release": {
-          "version_code": 21,
-          "version_name":"0.21",
-          "date":"06.01.2021",
-          "description":"\n• новое ядро exoplayer;\n• заставка при загрузке;\n• новый статус beta;\n• багфиксы;",
+          "version_code": 22,
+          "version_name":"0.22",
+          "date":"09.01.2021",
+          "description":"\n• новая опция настройки-интерфейс-плотность экрана;\n• показ и работа с внутренним епг в плейлисте;\n• фикс локального избранного;\n• багфиксы;",
           "apk_urls":["http://bit.ly/lid_apk"]
       }
   },
