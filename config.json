@@ -7,10 +7,10 @@
   "update": {
       "enable": "true",
       "release": {
-          "version_code": 29,
-          "version_name":"0.29",
-          "date":"01.03.2021",
-          "description":"\n• багфиксы;",
+          "version_code": 30,
+          "version_name":"0.30",
+          "date":"04.03.2021",
+          "description":"\n• адаптация внутреннего плеера под фильмовые плейлисты;\n• багфиксы;",
           "apk_urls":["http://bit.ly/lid_apk"]
       }
   },
