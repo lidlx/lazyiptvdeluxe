@@ -7,10 +7,10 @@
   "update": {
       "enable": "true",
       "release": {
-          "version_code": 33,
-          "version_name":"0.33",
-          "date":"11.03.2021",
-          "description":"\n• регулирование яркости и уровня звука в плеере;\n• настраиваемые свайпы в плеере;\n• багфиксы;",
+          "version_code": 34,
+          "version_name":"0.34",
+          "date":"14.03.2021",
+          "description":"\n• багфиксы;",
           "apk_urls":["http://bit.ly/lid_apk"]
       }
   },
