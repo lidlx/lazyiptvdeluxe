@@ -7,9 +7,9 @@
   "update": {
       "enable": "true",
       "release": {
-          "version_code": 34,
-          "version_name":"0.34",
-          "date":"14.03.2021",
+          "version_code": 35,
+          "version_name":"0.35",
+          "date":"15.03.2021",
           "description":"\n• багфиксы;",
           "apk_urls":["http://bit.ly/lid_apk"]
       }
