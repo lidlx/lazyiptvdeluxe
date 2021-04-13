@@ -20,5 +20,3 @@ The application is only a player and does not contain any preset channels or str
 - parental control;
 
 [GooglePlay](https://play.google.com/store/apps/details?id=com.lcs.lazyiptvdeluxe)
-
-[app-ads.txt](app-ads.txt)
