@@ -1,7 +1,7 @@
 ![Image](LazyIptvDeluxe.png)
 
-## LazyIptvDeluxe
-### Extended IPTV player
+## LazyIptv Deluxe
+### Extended IPTV player for Android
 This application is a manager of your playlists and EPG with advanced features. You can use internal or external players to play playlists. 
 The application is only a player and does not contain any preset channels or streams. You need to add a playlists and EPGs of your provider.
 
